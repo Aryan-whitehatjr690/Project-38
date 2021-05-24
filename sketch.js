@@ -73,7 +73,7 @@ function draw() {
   //trex.d
   background(255);
   textSize(25)
-  text("Score: "+ score, camera.x + 300,camera.y-300);
+  text("Score: "+ score, camera.x + 300,camera.y-200);
 
 
   
